@@ -1,10 +1,6 @@
 # 🌐 Google Homepage Clone
 
-A simple and responsive clone of the official Google homepage, built using **HTML5** and **CSS3**.
-
-## 🚀 Live Demo
-
-🔗 [Click here to view it live](https://ankanxcoder.github.io/Google-homepage-clone/googlehome.html)
+A simple and responsive clone of the official Google homepage, built using **HTML5** and **CSS3**
 
 ## 📸 Screenshot
 
