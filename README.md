@@ -1,36 +1,52 @@
 # 🌐 Google Homepage Clone
 
-A simple and responsive clone of the official Google homepage, built using **HTML5** and **CSS3**
+<p align="center">
+  A clean and responsive recreation of the Google homepage using pure HTML5 and CSS3.
+</p>
 
-## 📸 Screenshot
+<p align="center">
+  🎨 Frontend Project &nbsp; • &nbsp; 📱 Responsive UI &nbsp; • &nbsp; ⚡ Pure HTML & CSS
+</p>
 
-![Screenshot](./Assets/Google-clone-output.png)
+---
 
-## 🛠 Features
+## 📸 Preview
 
-- Fully responsive layout  
-- Google-like search UI with buttons  
-- Minimalist and clean design  
+<p align="center">
+  <img src="./Assets/Google-clone-output.png" alt="Google Homepage Clone" width="900">
+</p>
+
+---
+
+## ✨ Features
+
+- 🔍 Google-style search interface
+- 🧭 Navigation links
+- 🎨 Clean and minimal design
+- 📱 Responsive layout
+- ⚡ Lightweight and fast
+- 🧱 Built from scratch using HTML and CSS
+- 🚫 No frameworks or external libraries
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Used For |
+|------------|----------|
+| 🟠 HTML5 | Page structure |
+| 🔵 CSS3 | Styling and layout |
+
+---
 
 ## 📂 Project Structure
 
+```text
 Google-homepage-clone/
-├── googlehome.html
-├── googlehome.css
-├── README.md
-└── Assets/
-└── Google-clone-output.png
-
-
-## 🧰 Technologies Used
-
-- HTML5  
-- CSS3  
-
-## 👨‍💻 Author
-
-Made with ❤️ by [Ankan Sen](https://www.linkedin.com/in/ankan-sen-2725b9325)
-
-## 📌 GitHub Repo
-
-🔗 [https://github.com/AnkanXcoder/Google-homepage-clone](https://github.com/AnkanXcoder/Google-homepage-clone)
+│
+├── 📁 Assets/
+│   └── 🖼️ Google-clone-output.png
+│
+├── 📄 googlehome.html
+├── 🎨 googlehome.css
+└── 📖 README.md
